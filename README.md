@@ -1,0 +1,2 @@
+# kompyuter_savodxonligi_it_shaharcha
+
