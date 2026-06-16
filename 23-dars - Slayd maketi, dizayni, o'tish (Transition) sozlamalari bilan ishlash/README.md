@@ -11,7 +11,7 @@ Slayd maketi, dizayn mavzulari va o'tish effektlari (Transition) bilan tanishtir
 - **23-dars - Topshiriq.pdf** — o'quvchi uchun alohida amaliy topshiriq varaqasi.
 
 ## Amaliy topshiriq
-**"Taqdimotimni bezayman"** — Bir xil ma'lumot ham chiroyli dizayn bilan butunlay boshqacha ta'sir qiladi. Bugun sen taqdimotingга "liboslar" tanlaysan.
+**"Taqdimotimni bezayman"** — Bir xil ma'lumot ham chiroyli dizayn bilan butunlay boshqacha ta'sir qiladi. Bugun sen taqdimotingga "liboslar" tanlaysan.
 
 ## Uyga vazifa
-Bir taqdimotни uch xil dizayn mavzusida sinab ko'rib, qaysi biri chiroyliroq ekanini aniqlang.
+Bir taqdimotni uch xil dizayn mavzusida sinab ko'rib, qaysi biri chiroyliroq ekanini aniqlang.

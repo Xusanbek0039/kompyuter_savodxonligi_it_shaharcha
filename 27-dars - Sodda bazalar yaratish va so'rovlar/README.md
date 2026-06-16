@@ -11,7 +11,7 @@ Ma'lumotlar bazasida so'rov (Query) yaratish bilan tanishtirish; shartga mos ma'
 - **27-dars - Topshiriq.pdf** — o'quvchi uchun alohida amaliy topshiriq varaqasi.
 
 ## Amaliy topshiriq
-**"Bazadan ma'lumot qidir"** — Detektivга o'xshab, kerakli ma'lumotни bir so'rov bilan topish mumkin. Bugun sen bazangга savol berasan.
+**"Bazadan ma'lumot qidir"** — Detektivga o'xshab, kerakli ma'lumotni bir so'rov bilan topish mumkin. Bugun sen bazangga savol berasan.
 
 ## Uyga vazifa
-Kitoblar bazangizдан faqat ma'lum bir janrдаги kitoblarни ajratib oluvchi so'rov tuzing.
+Kitoblar bazangizdan faqat ma'lum bir janrdagi kitoblarni ajratib oluvchi so'rov tuzing.

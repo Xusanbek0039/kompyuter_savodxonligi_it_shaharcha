@@ -11,7 +11,7 @@ Ma'lumotlar bazasi va MBBT tushunchalari bilan tanishtirish; MS Access'da jadval
 - **26-dars - Topshiriq.pdf** — o'quvchi uchun alohida amaliy topshiriq varaqasi.
 
 ## Amaliy topshiriq
-**"Sinfdoshlar bazasi"** — Katta ma'lumotni tartibli saqlash uchun baza kerak. Bugun sen birinchi ma'lumotlar bazангни yaratasan.
+**"Sinfdoshlar bazasi"** — Katta ma'lumotni tartibli saqlash uchun baza kerak. Bugun sen birinchi ma'lumotlar bazangni yaratasan.
 
 ## Uyga vazifa
-Sevimli kitoblaringiz uchun Access bazаси tuzing: nomi, muallifi, yili va janri maydonlari bilan.
+Sevimli kitoblaringiz uchun Access bazasi tuzing: nomi, muallifi, yili va janri maydonlari bilan.

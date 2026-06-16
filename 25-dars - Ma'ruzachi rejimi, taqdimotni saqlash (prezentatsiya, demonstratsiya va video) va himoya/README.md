@@ -11,7 +11,7 @@ Ma'ruzachi rejimi (Presenter View) va taqdimotni turli formatlarda saqlash ko'ni
 - **25-dars - Topshiriq.pdf** — o'quvchi uchun alohida amaliy topshiriq varaqasi.
 
 ## Amaliy topshiriq
-**"Sahna ortidagi ma'ruzachi"** — Professional ma'ruzachi eslatmalardan foydalanadi va taqdimotни to'g'ri formatда saqlaydi. Bugun sen shu mahoratни egallaysan.
+**"Sahna ortidagi ma'ruzachi"** — Professional ma'ruzachi eslatmalardan foydalanadi va taqdimotni to'g'ri formatda saqlaydi. Bugun sen shu mahoratni egallaysan.
 
 ## Uyga vazifa
-O'z taqdimotinгизни mp4 video qilib eksport qiling va uни telefonда ko'rib chiqing.
+O'z taqdimotingizni mp4 video qilib eksport qiling va uni telefonda ko'rib chiqing.

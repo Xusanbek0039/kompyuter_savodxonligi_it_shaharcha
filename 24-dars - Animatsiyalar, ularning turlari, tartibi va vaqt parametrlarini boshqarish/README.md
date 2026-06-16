@@ -11,7 +11,7 @@ Slayd obyektlariga animatsiya qo'llash, ularning turlari va vaqt parametrlarini 
 - **24-dars - Topshiriq.pdf** — o'quvchi uchun alohida amaliy topshiriq varaqasi.
 
 ## Amaliy topshiriq
-**"Slaydlarni jonlantir"** — Jonli animatsiya tomoshabin e'tiborini ushlab turadi. Bugun sen taqdimotingга harakat baxsh etasan.
+**"Slaydlarni jonlantir"** — Jonli animatsiya tomoshabin e'tiborini ushlab turadi. Bugun sen taqdimotingga harakat baxsh etasan.
 
 ## Uyga vazifa
-Bitta slaydда 3 ta obyektга har xil animatsiya qo'llab, ularning ketma-ketligini sozlang.
+Bitta slaydda 3 ta obyektga har xil animatsiya qo'llab, ularning ketma-ketligini sozlang.
