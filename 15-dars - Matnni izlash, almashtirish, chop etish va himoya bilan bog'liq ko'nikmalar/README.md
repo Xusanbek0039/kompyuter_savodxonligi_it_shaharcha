@@ -11,7 +11,7 @@ Hujjatda matnni izlash va almashtirish, chop etishga tayyorlash hamda himoyalash
 - **15-dars - Topshiriq.pdf** — o'quvchi uchun alohida amaliy topshiriq varaqasi.
 
 ## Amaliy topshiriq
-**"Topib almashtirаman" — matn detektivi** — Katta hujjatda bir so'zni qo'lda qidirish — vaqt isrofi. Bugun sen Word'ning "sehrli" izlash kuchidan foydalanasan.
+**"Topib almashtiraman" — matn detektivi** — Katta hujjatda bir so'zni qo'lda qidirish — vaqt isrofi. Bugun sen Word'ning "sehrli" izlash kuchidan foydalanasan.
 
 ## Uyga vazifa
 Uzun matnda eng ko'p uchragan so'zni Find bilan toping va uni sinonim bilan almashtiring.
